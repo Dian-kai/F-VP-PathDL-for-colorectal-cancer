@@ -1,1 +1,1 @@
-# F-VP-PathDL-for-colorectal-cancer
+# F-VP-PathDL for colorectal cancer
